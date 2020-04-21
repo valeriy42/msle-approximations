@@ -18,3 +18,4 @@ psutil==5.6.7
 orca==1.5.3
 xlrd >= 1.0.0
 scikit-learn==0.22.2
+sympy>=1.5.1
